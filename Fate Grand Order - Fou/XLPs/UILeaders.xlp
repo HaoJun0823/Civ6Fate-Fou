@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEADER_FATE_FOU_NEUTRAL"/>
+			<m_ObjectName text="LEADER_FATE_FOU_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_NEUTRAL_FATE_FOU"/>
+			<m_ObjectName text="LEADER_NEUTRAL_FATE_FOU"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_NEUTRAL_FATE_FOU_BACKGROUND"/>
+			<m_ObjectName text="LEADER_NEUTRAL_FATE_FOU_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_NEUTRAL_FATE_FOU_BACKGROUND_LOAD"/>
+			<m_ObjectName text="LEADER_NEUTRAL_FATE_FOU_BACKGROUND_LOAD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FATE_FOU_45"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FATE_FOU_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FATE_FOU_128"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FATE_FOU_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FATE_FOU_200"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FATE_FOU_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FATE_FOU_22"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FATE_FOU_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FATE_FOU_256"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FATE_FOU_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FATE_FOU_30"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FATE_FOU_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FATE_FOU_32"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FATE_FOU_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FATE_FOU_36"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FATE_FOU_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FATE_FOU_44"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FATE_FOU_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FATE_FOU_451"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FATE_FOU_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FATE_FOU_48"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FATE_FOU_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FATE_FOU_50"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FATE_FOU_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FATE_FOU_64"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FATE_FOU_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FATE_FOU_80"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FATE_FOU_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_FOU_256"/>
+			<m_ObjectName text="ICON_LEADER_FATE_FOU_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_FOU_32"/>
+			<m_ObjectName text="ICON_LEADER_FATE_FOU_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_FOU_45"/>
+			<m_ObjectName text="ICON_LEADER_FATE_FOU_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_FOU_48"/>
+			<m_ObjectName text="ICON_LEADER_FATE_FOU_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_FOU_50"/>
+			<m_ObjectName text="ICON_LEADER_FATE_FOU_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_FOU_55"/>
+			<m_ObjectName text="ICON_LEADER_FATE_FOU_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_FOU_64"/>
+			<m_ObjectName text="ICON_LEADER_FATE_FOU_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_FATE_FOU_80"/>
+			<m_ObjectName text="ICON_LEADER_FATE_FOU_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ReligionFou100"/>
+			<m_ObjectName text="ReligionFou100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ReligionFou22"/>
+			<m_ObjectName text="ReligionFou22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ReligionFou270"/>
+			<m_ObjectName text="ReligionFou270"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ReligionFou50"/>
+			<m_ObjectName text="ReligionFou50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_GOVERNOR_FOU_FILL_22"/>
+			<m_ObjectName text="ICON_GOVERNOR_FOU_FILL_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_GOVERNOR_FOU_NORMAL_32"/>
+			<m_ObjectName text="ICON_GOVERNOR_FOU_NORMAL_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_GOVERNOR_FOU_NORMAL_64"/>
+			<m_ObjectName text="ICON_GOVERNOR_FOU_NORMAL_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_GOVERNOR_FOU_PRO_24"/>
+			<m_ObjectName text="ICON_GOVERNOR_FOU_PRO_24"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_GOVERNOR_FOU_SLOT_22"/>
+			<m_ObjectName text="ICON_GOVERNOR_FOU_SLOT_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Moment_FOU"/>
+			<m_ObjectName text="Moment_FOU"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_FATE_FOU_NORMAL"/>
+			<m_ObjectName text="GOVERNOR_FATE_FOU_NORMAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_FATE_FOU_SELECTED"/>
+			<m_ObjectName text="GOVERNOR_FATE_FOU_SELECTED"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_GOVERNOR_FOU_FILL_32"/>
+			<m_ObjectName text="ICON_GOVERNOR_FOU_FILL_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_GOVERNOR_FOU_SLOT_32"/>
+			<m_ObjectName text="ICON_GOVERNOR_FOU_SLOT_32"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

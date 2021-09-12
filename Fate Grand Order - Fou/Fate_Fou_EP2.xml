@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fate_Fou_EP2 -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 5/12/2021 7:43:26 PM -->
+<GameData>
+	<!-- CANADA -->
+	<TraitModifiers>
+		<Row>
+			<TraitType>TRAIT_LEADER_MAJOR_CIV</TraitType>
+			<ModifierId>TRAIT_NO_SUPRISE_WAR_ON_CANADA_FATE_FOU</ModifierId>
+		</Row>
+	</TraitModifiers>
+	<Modifiers>
+		<Row>
+			<ModifierId>TRAIT_NO_SUPRISE_WAR_ON_CANADA_FATE_FOU</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_BANNED_DIPLOMATIC_ACTION_SPECIFIC_CIVILIZATION</ModifierType>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>TRAIT_NO_SUPRISE_WAR_ON_CANADA_FATE_FOU</ModifierId>
+			<Name>CivilizationType</Name>
+			<Value>CIVILIZATION_FATE_FOU</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_NO_SUPRISE_WAR_ON_CANADA_FATE_FOU</ModifierId>
+			<Name>DiplomaticActionType</Name>
+			<Value>DIPLOACTION_DECLARE_SURPRISE_WAR</Value>
+		</Row>
+	</ModifierArguments>
+	
+</GameData>

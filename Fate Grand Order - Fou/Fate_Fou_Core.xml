@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fate_Fou_Core -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 2018/12/31 12:34:16 -->
+<GameData>
+
+	<Types>
+
+		<Row Type="CIVILIZATION_FATE_FOU" Kind="KIND_CIVILIZATION"/>
+		<Row Type="LEADER_FATE_FOU" Kind="KIND_LEADER"/>
+
+
+		<Row Type="TRAIT_LEADER_FATE_FOU" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_CIVILIZATION_FATE_FOU" Kind="KIND_TRAIT"/>
+		
+	</Types>
+
+	<Leaders>
+		<Row LeaderType="LEADER_FATE_FOU" NAME="LOC_LEADER_FATE_FOU_NAME" InheritFrom="LEADER_DEFAULT" Sex="Male" />
+	</Leaders>
+
+
+	<Civilizations>
+		<Row CivilizationType="CIVILIZATION_FATE_FOU" Name="LOC_CIVILIZATION_FATE_FOU_NAME" Description="LOC_CIVILIZATION_FATE_FOU_DESCRIPTION" Adjective="LOC_CIVILIZATION_FATE_FOU_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_FULL_CIV" RandomCityNameDepth="10"/>
+	</Civilizations>
+
+	<CivilizationLeaders>
+		<Row CivilizationType="CIVILIZATION_FATE_FOU" LeaderType="LEADER_FATE_FOU" CapitalName="LOC_CITY_NAME_FOU"/>
+	</CivilizationLeaders>
+
+
+	<Traits>
+
+		<Row TraitType="TRAIT_LEADER_FATE_FOU" NAME="LOC_TRAIT_LEADER_FATE_FOU_NAME" Description="LOC_TRAIT_LEADER_FATE_FOU_DESCRIPTION"/>
+		<Row TraitType="TRAIT_CIVILIZATION_FATE_FOU" NAME="LOC_CIVILIZATION_TRAIT_FATE_FOU_NAME" Description="LOC_CIVILIZATION_TRAIT_FATE_FOU_DESCRIPTION"/>
+		
+	</Traits>
+
+	<CivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_FATE_FOU" TraitType="TRAIT_CIVILIZATION_FATE_FOU"/>
+		
+	</CivilizationTraits>
+
+
+	<LeaderTraits>
+		<Row LeaderType="LEADER_FATE_FOU" TraitType="TRAIT_LEADER_FATE_FOU"/>
+		
+	</LeaderTraits>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_FATE_FOU_PRIMARY</Type>
+			<Color>202,135,214,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_FATE_FOU_SECONDARY</Type>
+			<Color>255,255,255,255</Color>
+		</Row>
+	</Colors>
+	
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_FATE_FOU</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER_FATE_FOU_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_FATE_FOU_SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<LoadingInfo>
+		<Row LeaderType="LEADER_FATE_FOU" ForegroundImage="LEADER_NEUTRAL_FATE_FOU.dds"  BackgroundImage="LEADER_NEUTRAL_FATE_FOU_BACKGROUND_LOAD.dds" PlayDawnOfManAudio="0"/>
+	</LoadingInfo>
+	
+	<DiplomacyInfo>
+		<Row Type="LEADER_FATE_FOU" BackgroundImage="LEADER_NEUTRAL_FATE_FOU_BACKGROUND.dds"/>
+	</DiplomacyInfo>
+
+
+	<Types>
+
+		<Row Type="RELIGION_FOU" Kind="KIND_RELIGION"/>
+
+	</Types>
+
+	<Religions>
+
+		<Row>
+			<ReligionType>RELIGION_FOU</ReligionType>
+			<Name>LOC_LEADER_FATE_FOU_FOU</Name>
+			<IconString>Fo</IconString>
+			<RequiresCustomName>false</RequiresCustomName>
+			<Color>COLOR_PLAYER_FATE_FOU_SECONDARY</Color>
+		</Row>
+
+	</Religions>
+
+
+
+	<FavoredReligions>
+
+		<Row LeaderType="LEADER_FATE_FOU" ReligionType="RELIGION_FOU" />
+
+	</FavoredReligions>
+
+
+</GameData>

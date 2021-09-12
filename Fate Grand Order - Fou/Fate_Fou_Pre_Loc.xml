@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fate_Fou_Pre_Loc -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 2018/12/31 15:25:27 -->
+<GameData>
+
+	<BaseGameText>
+		<Row Tag="LOC_LEADER_FATE_FOU_NAME" >
+			<Text>Cath Palug</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FATE_FOU_NAME" >
+			<Text>Comparison</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FATE_FOU_DESCRIPTION" >
+			<Text>Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~</Text>
+		</Row>
+
+
+
+		<Row Tag="LOC_CIVILIZATION_FATE_FOU_NAME" >
+			<Text>Beast IV</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_TRAIT_FATE_FOU_NAME" >
+			<Text>Primate Murder</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_TRAIT_FATE_FOU_DESCRIPTION" >
+			<Text>Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~</Text>
+		</Row>
+
+	</BaseGameText>
+
+	<LocalizedText>
+		
+		<Row Tag="LOC_LEADER_FATE_FOU_NAME" Language="zh_Hans_CN">
+			<Text>凯茜·帕鲁格</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FATE_FOU_NAME" Language="zh_Hans_CN" >
+			<Text>比较之理</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_FATE_FOU_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_TRAIT_FATE_FOU_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CIVILIZATION_FATE_FOU_NAME" Language="zh_Hans_CN">
+			<Text>第四兽</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_TRAIT_FATE_FOU_NAME" Language="zh_Hans_CN">
+			<Text>灵长类杀手</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_FOU_NAME" Language="zh_Hant_HK">
+			<Text>凱茜·帕魯格</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FATE_FOU_NAME" Language="zh_Hant_HK" >
+			<Text>比較之理</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_FATE_FOU_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>芙~芙~芙~芙~芙~</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_TRAIT_FATE_FOU_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CIVILIZATION_FATE_FOU_NAME" Language="zh_Hant_HK">
+			<Text>第四獸</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_TRAIT_FATE_FOU_NAME" Language="zh_Hant_HK">
+			<Text>靈長類殺手</Text>
+		</Row>		
+		
+
+	</LocalizedText>
+
+
+</GameData>

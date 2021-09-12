@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fate_Fou_In_Loc -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 2018/12/31 15:36:57 -->
+<GameData>
+
+	<BaseGameText>
+
+		<Row Tag="LOC_GOVERNOR_FATE_FOU_NAME" >
+			<Text>{LOC_LEADER_FATE_FOU_NAME}</Text>
+		</Row>
+
+		<Row Tag="LOC_GOVERNOR_FATE_FOU_SELECTED_TITLE" >
+			<Text>{LOC_CIVILIZATION_TRAIT_FATE_FOU_NAME}</Text>
+		</Row>
+
+		<Row Tag="LOC_GOVERNOR_FATE_FOU_SELECTED_SHORT_TITLE" >
+			<Text>{LOC_LEADER_FATE_FOU_FOU}</Text>
+		</Row>
+
+		<Row Tag="LOC_GOVERNOR_FATE_FOU_SELECTED_DESCRIPTION" >
+			<Text>{LOC_CIVILIZATION_TRAIT_FATE_FOU_DESCRIPTION}</Text>
+		</Row>
+
+		<Row Tag="LOC_GOVERNOR_PROMOTION_FATE_FOU_NAME" >
+			<Text>{LOC_TRAIT_LEADER_FATE_FOU_NAME}</Text>
+		</Row>
+
+		<Row Tag="LOC_GOVERNOR_PROMOTION_FATE_FOU_DESCRIPTION" >
+			<Text>{LOC_TRAIT_LEADER_FATE_FOU_DESCRIPTION}</Text>
+		</Row>
+
+		<Row Tag="LOC_CITY_NAME_FOU" >
+			<Text>{LOC_TRAIT_LEADER_FATE_FOU_NAME}</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FATE_FOU_DESCRIPTION" >
+			<Text>{LOC_CIVILIZATION_FATE_FOU_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FATE_FOU_ADJECTIVE" >
+			<Text>{LOC_CIVILIZATION_TRAIT_FATE_FOU_NAME}</Text>
+		</Row>
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_FATE_FOU" >
+			<Text>Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~Fou~</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_FATE_FOU_ANY"    >
+			<Text>FouFou？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou!!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou?...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou...Fou!!!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou?!!!!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou~ </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou~Fou?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_FATE_FOU_ANY"    >
+			<Text>......</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou!!!!!!!!!!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou~FouFou!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou~~~Fou!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou...Fou!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou~~~</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou?Fou~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou!~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_FATE_FOU_ANY"    >
+			<Text>FouFouFou!!!!!!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou...Fou?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou~~~Fou~~~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou,Fou. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou~~Fou？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou!Fou!Fou!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_FATE_FOU_ANY"    >
+			<Text>..Fou...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou?Fou...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_FATE_FOU_ANY"    >
+			<Text>Fou!Fou~~Fou!</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_FOU_QUOTE"    >
+			<Text>Fou~~~~</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_FOU_FOU"    >
+			<Text>Fou</Text>
+		</Row>
+		
+	</BaseGameText>
+
+	<LocalizedText>
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_FATE_FOU" Language="zh_Hans_CN">
+			<Text>芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙。。。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙芙？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙！！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙？。。。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙。。。芙！！！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙？！！！！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙~ </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙~芙？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>。。。。。。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙！！！！！！！！！！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙~芙芙！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙~~~芙！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙。。。芙！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙~~~</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙？芙~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙！~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙芙芙！！！！！！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙。。。芙？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙~~~芙~~~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙，芙。 </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙~~芙？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙！芙！芙！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>。。芙。。。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙？芙。。。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hans_CN">
+			<Text>芙！芙~~芙！</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_FOU_QUOTE"    Language="zh_Hans_CN">
+			<Text>芙~~~~</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_FOU_FOU"    Language="zh_Hans_CN">
+			<Text>芙</Text>
+		</Row>
+
+
+	</LocalizedText>
+
+	<LocalizedText>
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_FATE_FOU" Language="zh_Hant_HK">
+			<Text>芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~芙~</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙。。。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙芙？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙！！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙？。。。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙。。。芙！！！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙？！！！！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙~ </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙~芙？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>。。。。。。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙！！！！！！！！！！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙~芙芙！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙~~~芙！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙。。。芙！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙~~~</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙？芙~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙！~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙芙芙！！！！！！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙。。。芙？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙~~~芙~~~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙，芙。 </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙~~芙？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙！芙！芙！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>。。芙。。。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙？芙。。。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_FATE_FOU_ANY"    Language="zh_Hant_HK">
+			<Text>芙！芙~~芙！</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_FOU_QUOTE"    Language="zh_Hant_HK">
+			<Text>芙~~~~</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_FATE_FOU_FOU"    Language="zh_Hant_HK">
+			<Text>芙</Text>
+		</Row>
+
+
+	</LocalizedText>	
+	
+
+</GameData>

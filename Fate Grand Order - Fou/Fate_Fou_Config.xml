@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fate_Fou_Config -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 2018/12/31 13:22:34 -->
+<GameData>
+	<Players>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_FATE_FOU</CivilizationType>
+			<LeaderType>LEADER_FATE_FOU</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_FATE_FOU_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_FATE_FOU</CivilizationIcon>
+			<LeaderName>LOC_LEADER_FATE_FOU_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_FATE_FOU</LeaderIcon>
+			<CivilizationAbilityName>LOC_CIVILIZATION_TRAIT_FATE_FOU_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_CIVILIZATION_TRAIT_FATE_FOU_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_FATE_FOU</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LEADER_FATE_FOU_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LEADER_FATE_FOU_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_FATE_FOU</LeaderAbilityIcon>
+			<Portrait>LEADER_FATE_FOU_NEUTRAL</Portrait>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_FATE_FOU</CivilizationType>
+			<LeaderType>LEADER_FATE_FOU</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_FATE_FOU_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_FATE_FOU</CivilizationIcon>
+			<LeaderName>LOC_LEADER_FATE_FOU_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_FATE_FOU</LeaderIcon>
+			<CivilizationAbilityName>LOC_CIVILIZATION_TRAIT_FATE_FOU_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_CIVILIZATION_TRAIT_FATE_FOU_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_FATE_FOU</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LEADER_FATE_FOU_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LEADER_FATE_FOU_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_FATE_FOU</LeaderAbilityIcon>
+			<Portrait>LEADER_FATE_FOU_NEUTRAL</Portrait>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_FATE_FOU</CivilizationType>
+			<LeaderType>LEADER_FATE_FOU</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_FATE_FOU_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_FATE_FOU</CivilizationIcon>
+			<LeaderName>LOC_LEADER_FATE_FOU_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_FATE_FOU</LeaderIcon>
+			<CivilizationAbilityName>LOC_CIVILIZATION_TRAIT_FATE_FOU_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_CIVILIZATION_TRAIT_FATE_FOU_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_FATE_FOU</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LEADER_FATE_FOU_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LEADER_FATE_FOU_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_FATE_FOU</LeaderAbilityIcon>
+			<Portrait>LEADER_FATE_FOU_NEUTRAL</Portrait>
+		</Row>
+
+	</Players>
+</GameData>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fate_Fou_Icon -->
+<!-- Author: HaoJu -->
+<!-- DateCreated: 2018/12/31 13:33:59 -->
+<GameData>
+	<IconTextureAtlases>
+		<Row Name="ICON_LEADER_FATE_FOU_ATLAS" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_FOU_32"/>
+		<Row Name="ICON_LEADER_FATE_FOU_ATLAS" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_FOU_45"/>
+		<Row Name="ICON_LEADER_FATE_FOU_ATLAS" IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_FOU_48"/>
+		<Row Name="ICON_LEADER_FATE_FOU_ATLAS" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_FOU_50"/>
+		<Row Name="ICON_LEADER_FATE_FOU_ATLAS" IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_FOU_55"/>
+		<Row Name="ICON_LEADER_FATE_FOU_ATLAS" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_FOU_64"/>
+		<Row Name="ICON_LEADER_FATE_FOU_ATLAS" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_FOU_80"/>
+		<Row Name="ICON_LEADER_FATE_FOU_ATLAS" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_FATE_FOU_256"/>
+
+
+		<Row Name="ICON_LEADER_FATE_FOU_CIV" IconSize="22"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_FATE_FOU_22"/>
+		<Row Name="ICON_LEADER_FATE_FOU_CIV" IconSize="30"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_FATE_FOU_30"/>
+		<Row Name="ICON_LEADER_FATE_FOU_CIV" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_FATE_FOU_32"/>
+		<Row Name="ICON_LEADER_FATE_FOU_CIV" IconSize="36"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_FATE_FOU_36"/>
+		<Row Name="ICON_LEADER_FATE_FOU_CIV" IconSize="44"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_FATE_FOU_44"/>
+		<Row Name="ICON_LEADER_FATE_FOU_CIV" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_FATE_FOU_45"/>
+		<Row Name="ICON_LEADER_FATE_FOU_CIV" IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_FATE_FOU_48"/>
+		<Row Name="ICON_LEADER_FATE_FOU_CIV" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_FATE_FOU_50"/>
+		<Row Name="ICON_LEADER_FATE_FOU_CIV" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_FATE_FOU_64"/>
+		<Row Name="ICON_LEADER_FATE_FOU_CIV" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_FATE_FOU_80"/>
+		<Row Name="ICON_LEADER_FATE_FOU_CIV" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_FATE_FOU_128"/>
+		<Row Name="ICON_LEADER_FATE_FOU_CIV" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_FATE_FOU_200"/>
+		<Row Name="ICON_LEADER_FATE_FOU_CIV" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_FATE_FOU_256"/>
+
+		<Row Name="ICON_ATLAS_RELIGIONS_Fou" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ReligionFou22"/>
+		<Row Name="ICON_ATLAS_RELIGIONS_Fou" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ReligionFou50"/>
+		<Row Name="ICON_ATLAS_RELIGIONS_Fou" IconSize="100" IconsPerRow="1" IconsPerColumn="1" Filename="ReligionFou100"/>
+		<Row Name="ICON_ATLAS_RELIGIONS_Fou_Big" IconSize="270" IconsPerRow="1" IconsPerColumn="1" Filename="ReligionFou270"/>
+
+		<Row Name="ICON_ATLAS_GOVERNOR_FATE_FOU_PROMOTIONS" IconSize="24" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_GOVERNOR_FOU_PRO_24.dds"/>
+
+		<Row Name="ICON_ATLAS_GOVERNOR_FATE_FOU" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_GOVERNOR_FOU_NORMAL_64.dds"/>
+		<Row Name="ICON_ATLAS_GOVERNOR_FATE_FOU" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_GOVERNOR_FOU_NORMAL_32.dds"/>
+
+		<Row Name="ICON_ATLAS_GOVERNOR_FATE_FOU_FILL" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_GOVERNOR_FOU_FILL_32.dds"/>
+		<Row Name="ICON_ATLAS_GOVERNOR_FATE_FOU_FILL" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_GOVERNOR_FOU_FILL_22.dds"/>
+
+		<Row Name="ICON_ATLAS_GOVERNOR_FATE_FOU_SLOT" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_GOVERNOR_FOU_SLOT_32.dds"/>
+		<Row Name="ICON_ATLAS_GOVERNOR_FATE_FOU_SLOT" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_GOVERNOR_FOU_SLOT_22.dds"/>
+
+	</IconTextureAtlases>
+	<IconDefinitions>
+		
+		<Row Name="ICON_LEADER_FATE_FOU" Atlas="ICON_LEADER_FATE_FOU_ATLAS" Index="0"/>
+		
+		<Row Name="ICON_CIVILIZATION_FATE_FOU" Atlas="ICON_LEADER_FATE_FOU_CIV" Index="0"/>
+		<Row Name="ICON_RELIGION_FOU" Atlas="ICON_ATLAS_RELIGIONS_Fou" Index="0"/>
+		<Row Name="ICON_RELIGION_FOU" Atlas="ICON_ATLAS_RELIGIONS_Fou_Big" Index="0"/>
+		
+		<Row Name="ICON_GOVERNOR_FATE_FOU"          Atlas="ICON_ATLAS_GOVERNOR_FATE_FOU" Index="0"/>
+		<Row Name="ICON_GOVERNOR_FATE_FOU_FILL"          Atlas="ICON_ATLAS_GOVERNOR_FATE_FOU_FILL" Index="0"/>
+		<Row Name="ICON_GOVERNOR_FATE_FOU_SLOT"          Atlas="ICON_ATLAS_GOVERNOR_FATE_FOU_SLOT" Index="0"/>
+		<Row Name="ICON_GOVERNOR_FATE_FOU_PROMOTION"               Atlas="ICON_ATLAS_GOVERNOR_FATE_FOU_PROMOTIONS" Index="0"/>
+
+	</IconDefinitions>	
+</GameData>
